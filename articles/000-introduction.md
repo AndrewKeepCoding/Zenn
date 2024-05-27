@@ -3,7 +3,7 @@ title: "自己紹介"
 emoji: "⚙️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["WinUI", "WinUI3", "WinAppSDK", "WindowsAppSDK", "XAML"]
-published: false
+published: true
 ---
 
 はじめまして**Andrew KeepCoding**と申します😊
