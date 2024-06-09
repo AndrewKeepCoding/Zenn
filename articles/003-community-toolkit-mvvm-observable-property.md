@@ -268,6 +268,7 @@ public string FirstName
 `CommunityToolkit.Mvvm`NuGetパッケージを使えば、超強力なソースジェネレーターの力によって
 - ボイラープレートコードの削減
 - MVVMに最適化されたコードの適用
+
 などのメリットがあります。
 
 `CommunityToolkit.Mvvm`NuGetパッケージにはまだまだ魅力的な機能がありますので、
