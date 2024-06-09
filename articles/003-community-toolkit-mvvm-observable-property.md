@@ -207,7 +207,7 @@ partial void OnFirstNameChanged(string? oldValue, string newValue);
 private string _firstName = string.Empty;
 ```
 
-と記述すれば、`FirstName`プロパティにXAMLドキュメントが継承されます。
+と記述すれば、`FirstName`プロパティにXMLドキュメントが継承されます。
 
 さらに、
 - OnFirstNameChanging
