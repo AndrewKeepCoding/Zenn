@@ -274,5 +274,7 @@ public string FirstName
 `CommunityToolkit.Mvvm`NuGetパッケージにはまだまだ魅力的な機能がありますので、
 次回以降も紹介する予定です。
 
+https://zenn.dev/andrewkeepcodin/articles/004-community-toolkit-mvvm-relay-command
+
 
 Happy Coding!😊
