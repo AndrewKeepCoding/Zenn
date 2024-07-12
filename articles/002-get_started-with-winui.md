@@ -25,7 +25,7 @@ https://visualstudio.microsoft.com/downloads/
 - Visual Studioインストーラーを起動します。
 - [ワークロード]タブで[Windowsアプリケーション開発]にチェックを入れます。
 
-![](/images/002-get-started-with-winui/windows-application-development-workload.png)
+![](/images/002/windows-application-development-workload.png)
 
 # 3. 開発者モード
 

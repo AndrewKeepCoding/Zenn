@@ -48,7 +48,7 @@ Microsoft Build 2024では、WinUI 3ではなく、WinUIとして表現される
 
 の2本立てを推していく方針が発表されました。
 
-![](/images/001-what-is-winui/winui-vs-wpf.png)
+![](/images/001/winui-vs-wpf.png)
 
 基本的には、
 

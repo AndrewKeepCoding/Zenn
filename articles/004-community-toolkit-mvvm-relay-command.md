@@ -12,7 +12,7 @@ published: true
 を紹介しましたが、この記事では`RelayCommand`のサンプルコードを紹介します。
 
 # UI
-![](/images/004-community-toolkit-mvvm-relay-command/firstname-lastname-fullname-list.gif)
+![](/images/004/firstname-lastname-fullname-list.gif)
 
 # サンプルコード
 

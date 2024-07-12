@@ -9,7 +9,7 @@ published: true
 [`CommunityToolkit.Mvvm`](https://learn.microsoft.com/ja-jp/dotnet/communitytoolkit/mvvm/?wt.mc_id=MVP_356303)NuGetパッケージを使った実装サンプルコードを紹介します。
 
 # UI
-![](/images/003-community-toolkit-mvvm-observable-property/firstname-lastname-fullname.gif)
+![](/images/003/firstname-lastname-fullname.gif)
 
 # サンプルコード
 
@@ -122,7 +122,7 @@ public partial class SomePageViewModel : SomeBaseClass
 
 ソースジェネレーターが生成したコードを確認することができます。
 
-![](/images/003-community-toolkit-mvvm-observable-property/observable-object-attribute.png)
+![](/images/003/observable-object-attribute.png)
 *CommunityToolkitMvvmDemo.SomePageViewModel.g.cs*
 
 :::message alert
